@@ -1,0 +1,20 @@
+$(document).ready(function(){
+  $("#mt").click(function(){
+    $("#mme").slideToggle("slow"); 
+  });
+   $(".Dr").click(function(){
+    $(".Dc").slideToggle("slow"); 
+  });
+   $(".Dr1").click(function(){
+    $(".Dc1").slideToggle("slow"); 
+  });
+   $(".Dr2").click(function(){
+    $(".Dc2").slideToggle("slow"); 
+  });
+   $(".Dr3").click(function(){
+    $(".Dc3").slideToggle("slow"); 
+  });
+  $(".Dr4").click(function(){
+    $(".Dc4").slideToggle("slow"); 
+  });
+});
